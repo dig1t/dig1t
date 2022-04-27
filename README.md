@@ -15,7 +15,7 @@
 <a href="https://instagram.com/dig1t_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dig1t_" height="30" width="40" /></a>
 </p>
 
-<h4 align="center">Languages and Tools I use</h4>
+<h4 align="center">My Languages and Tools</h4>
 
 <p align="center">
 <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="30" height="30"/></a>
