@@ -2,17 +2,12 @@
 
 <h3 align="center">Hi! I'm Javi, a software engineer and Roblox Developer.</h3>
 
-<p align="center">
-  <a fill="red" href="https://dig1t.io">Website</a> •
-  <a href="https://instagram.com/dig1t_">Designs</a>
-</p>
-
 <h4 align="center">Connect with me!</h4>
 
 <p align="center">
-<a href="https://dig1t.io" target="blank"><img align="center" src="https://www.dig1t.io/i/icon@32x32.png" alt="personal-website" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/javier-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier-m" height="30" width="40" /></a>
-<a href="https://instagram.com/dig1t_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dig1t_" height="30" width="40" /></a>
+<a href="https://dig1t.io" target="_blank" rel="noreferrer"><img align="center" src="https://www.dig1t.io/i/icon@32x32.png" alt="personal-website" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/javier-m" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier-m" height="30" width="40" /></a>
+<a href="https://instagram.com/dig1t_" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dig1t_" height="30" width="40" /></a>
 </p>
 
 <h4 align="center">My Languages and Tools</h4>
