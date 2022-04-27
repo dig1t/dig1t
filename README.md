@@ -1,3 +1,5 @@
+<img align="center" src="https://i.imgur.com/g4fz8Fv.png" />
+
 <h3 align="center">Hi! I'm Javi, a software engineer and Roblox Developer.</h3>
 
 <p align="center">
