@@ -2,8 +2,6 @@
 
 <h3 align="center">Hi! I'm Javi, a software engineer and Roblox Developer.</h3>
 
-<h4 align="center">Connect with me!</h4>
-
 <p align="center">
 <a href="https://dig1t.io" target="_blank" rel="noreferrer"><img align="center" src="https://www.dig1t.io/i/icon@32x32.png" alt="personal-website" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/javier-m" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier-m" height="30" width="40" /></a>
