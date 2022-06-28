@@ -46,6 +46,10 @@
 	<a href="https://www.adobe.com/products/xd.html"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="30" height="30"/></a>
 </p>
 
+<p align="center">
+	<a href="https://github.com/dig1t?tab=stars">Tools and Guides I use</a>
+</p>
+
 <br />
 
 <p align="center">
