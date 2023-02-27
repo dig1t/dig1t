@@ -1,8 +1,8 @@
 ![header](https://i.imgur.com/g4fz8Fv.png)
 ## Hi! I'm Javi.
-### ⬇️ Here are some thing I can do
+### ⬇️ Here are some things I can do
 
-🔸 UI/UX Designer
+🔸 **UI/UX Designer**
 
 &emsp;🔹 figma
 🔹 Adobe Photoshop
@@ -13,7 +13,7 @@
 🔹 Next.js
 🔹 SASS
 
-🔸 Software Developer *[Current Tech Stack]*
+🔸 **Software Developer *[Current Tech Stack]***
 
 &emsp;
 🔹 React v18
@@ -33,17 +33,17 @@
 🔹 AWS
 🔹 Cloudflare
 
-🔸 [🔗Roblox Developer](https://www.roblox.com/users/31244132/profile)
+🔸 [**🔗Roblox Developer**](https://www.roblox.com/users/31244132/profile)
 
-🔸  Studio Owner<br/>
+🔸  **Studio Owner<br/>**
 &emsp;🔹 [🔗firebit games](https://www.roblox.com/groups/5113589/firebit)
 🔹 [🔗firebit creative](https://firebit.dev/) [tbd]
 
-🔸 [🔗Graphic Designer](https://www.instagram.com/dig1tt)
+🔸 [**🔗Graphic Designer**](https://www.instagram.com/dig1tt)
 
-🔸 [🔗Music Producer](https://soundcloud.com/dig1tt)
+🔸 [**🔗Music Producer**](https://soundcloud.com/dig1tt)
 
-⬇️ Other Known Skills & Technologies
+⬇️ **Other Known Skills & Technologies**
 
 🔹 TypeScript / ECMAScript
 🔹 MongoDB
