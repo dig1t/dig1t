@@ -13,7 +13,7 @@
 🔹 Next.js
 🔹 SASS
 
-🔸 **Software Developer *[Current Tech Stack]***
+🔸 **Software Developer** *[Current Tech Stack]*
 
 🔹 React v18
 🔹 React Native
