@@ -4,18 +4,17 @@
 
 🔸 **UI/UX Designer**
 
-&emsp;🔹 figma
+🔹 figma
 🔹 Adobe Photoshop
 🔹 Adobe Illustrator
 🔹 Adobe XD
 
-&emsp;🔹 Notion
+🔹 Notion
 🔹 Next.js
 🔹 SASS
 
 🔸 **Software Developer *[Current Tech Stack]***
 
-&emsp;
 🔹 React v18
 🔹 React Native
 🔹 Redux
@@ -27,7 +26,7 @@
 🔹 SASS
 🔹 Electron
 
-&emsp;🔹 mocha
+🔹 mocha
 🔹 chai
 🔹 supertest
 🔹 AWS
@@ -35,8 +34,10 @@
 
 🔸 [**🔗Roblox Developer**](https://www.roblox.com/users/31244132/profile)
 
+🔹 7M+ Game Plays
+
 🔸  **Studio Owner<br/>**
-&emsp;🔹 [🔗firebit games](https://www.roblox.com/groups/5113589/firebit)
+🔹 [🔗firebit games](https://www.roblox.com/groups/5113589/firebit)
 🔹 [🔗firebit creative](https://firebit.dev/) [tbd]
 
 🔸 [**🔗Graphic Designer**](https://www.instagram.com/dig1tt)
