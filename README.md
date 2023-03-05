@@ -2,17 +2,6 @@
 ## Hi! I'm Javi.
 ### ⬇️ Here are some things I can do
 
-🔸 **UI/UX Designer**
-
-🔹 figma
-🔹 Adobe Photoshop
-🔹 Adobe Illustrator
-🔹 Adobe XD
-
-🔹 Notion
-🔹 Next.js
-🔹 SASS
-
 🔸 **Software Developer** *[Current Tech Stack]*
 
 🔹 React v18
@@ -25,12 +14,10 @@
 🔹 babel
 🔹 SASS
 🔹 Electron
-
 🔹 mocha
 🔹 chai
-🔹 supertest
-🔹 AWS
-🔹 Cloudflare
+
+🔸 **UI/UX Designer**
 
 🔸 [**🔗Roblox Developer**](https://www.roblox.com/users/31244132/profile)
 
@@ -38,51 +25,5 @@
 
 🔸  **Studio Owner<br/>**
 🔹 [🔗firebit games](https://www.roblox.com/groups/5113589/firebit)
-🔹 [🔗firebit creative](https://firebit.dev/) [tbd]
 
 🔸 [**🔗Graphic Designer**](https://www.instagram.com/dig1tt)
-
-🔸 [**🔗Music Producer**](https://soundcloud.com/dig1tt)
-
-⬇️ **Other Known Skills & Technologies**
-
-🔹 TypeScript / ECMAScript
-🔹 MongoDB
-🔹 Mongoose
-🔹 Python
-🔹 Java
-🔹 CommonJS
-🔹 Grunt
-🔹 Passport.js
-🔹 socket.io
-🔹 OpenID
-🔹 Vercel
-🔹 Next.js
-🔹 heroku
-🔹 OAuth2 Servers
-🔹 OAuth2 Auth
-🔹 SSO
-🔹 VS Code
-🔹 Postman
-🔹 Lua
-🔹 Wally
-🔹 Aftman
-🔹 Rojo
-🔹 Roblox Studio
-🔹 Blender
-🔹 redis
-🔹 PHP
-🔹 MySQL
-🔹 Apache
-🔹 Composer
-🔹 RequireJS
-🔹 firebase
-🔹 tailwind
-🔹 Chart.js
-🔹 strapi
-🔹 Regex
-🔹 lodash
-🔹 Underscore.js
-🔹 JQuery
-🔹 Node.js Modules
-🔹 Axios
