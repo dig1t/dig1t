@@ -2,28 +2,12 @@
 ## Hi! I'm Javi.
 ### ⬇️ Here are some things I can do
 
-🔸 **Software Developer** *[Current Tech Stack]*
-
-🔹 React v18
-🔹 React Native
-🔹 Redux
-🔹 MongoDB
-🔹 Express.js
-🔹 Ethereum Web3 API
-🔹 webpack
-🔹 babel
-🔹 SASS
-🔹 Electron
-🔹 mocha
-🔹 chai
+🔸 **Software Developer**
 
 🔸 **UI/UX Designer**
 
 🔸 [**🔗Roblox Developer**](https://www.roblox.com/users/31244132/profile)
 
-🔹 7M+ Game Plays
-
-🔸  **Studio Owner<br/>**
-🔹 [🔗firebit games](https://www.roblox.com/groups/5113589/firebit)
-
 🔸 [**🔗Graphic Designer**](https://www.instagram.com/dig1tt)
+
+[![wakatime](https://wakatime.com/badge/user/54f26fc6-38ae-42c1-97dd-405390ea5f85.svg)](https://wakatime.com/@54f26fc6-38ae-42c1-97dd-405390ea5f85)
