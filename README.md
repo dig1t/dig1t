@@ -20,7 +20,7 @@
 | [Versa App](https://github.com/dig1t/versa-app) | Social network project I built with a MERN stack |
 
 ### 🌐 Find me elsewhere
-- Roblox: [@dig1tt](https://www.roblox.com/users/31244132/profile)
+- X: [@dig1tt](https://x.com/dig1tt)
 - Discord: [@dig1tt](https://discord.com/users/154437407368806400)
 
 Feel free to star anything you find useful!
