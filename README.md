@@ -13,6 +13,7 @@
 |---------|-------------|
 | [red](https://github.com/dig1t/red) | Event-driven communication library (Server ↔ Client) |
 | [roblox-modules](https://github.com/dig1t/roblox-modules) | Collection of reusable modules & libraries for Roblox devs |
+| [rblxsync](https://github.com/dig1t/rblxsync) | Roblox sync tooling |
 | [rojo-template](https://github.com/dig1t/rojo-template) | Clean starter template for Rojo-based Roblox projects |
 | [Analytics](https://github.com/Looking-Fresh-Games/Analytics) | Wally package for tracking metrics in Roblox games. (GA/Roblox Compatible) |
 | [DailyRewards](https://github.com/Looking-Fresh-Games/DailyRewards) | Wally package for quickly setting up daily rewards in your game |
